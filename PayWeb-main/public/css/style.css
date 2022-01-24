@@ -1,0 +1,64 @@
+body .dark{
+     background-color: #191919;
+ }
+
+nav.dark,footer.dark{
+     background-color: #1f1f1f !important;
+     color:white !important;
+}
+
+#accordionSidebar.dark{
+    background-color: #3D3D3D !important;
+    color: white !important;
+}
+
+#content.dark{
+    background-color: #191919 !important;
+}
+
+body .dark .card{
+    border-color: black !important;
+    color: white !important;
+    background-color: #272727 !important;
+}
+
+body .dark .card-header{
+    background-color: black !important;
+    border-color: black !important;
+    color: white !important;
+}
+
+body .dark .card-body{
+    background-color: #272727 !important;
+    color: white !important;
+}
+
+body .dark h6{
+    color: white !important;
+}
+
+body .dark .btn{
+    color: white !important;
+    background-color: black;
+    border-color: black;
+}
+
+body .dark p{
+    color: white !important;
+}
+
+body .dark .text-center{
+    color: white !important;
+}
+
+body .dark .spinner-border{
+    color: gray !important;
+}
+
+body .dark .collapse-header{
+    color: black !important;
+}
+
+.font-black{
+    color: black !important;
+}
